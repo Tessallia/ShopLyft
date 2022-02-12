@@ -1,0 +1,10 @@
+settings
+    notifications:
+        for upcoming events or alarms for iminent events
+
+    access to email or text to use regex to grab info that might make an event
+
+    clock style: 12 or 24 hour clock
+
+    theme settings
+
